@@ -1,4 +1,5 @@
 def merge(list1, list2):
+    #Пузырьковой сортировкой можно сделать
     result = list1 + list2
     for i in range(len(result)):
         for j in range(len(result) - 1):
