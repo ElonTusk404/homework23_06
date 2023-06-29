@@ -6,3 +6,6 @@ def increment_counter():
     print(counter)
 increment_counter()
 increment_counter()
+increment_counter()
+increment_counter()
+increment_counter()
